@@ -9,7 +9,7 @@ In this project, I performed exploratory data analysis (EDA), parameter estimati
 
 
 #### Data Source
-Official timing records from the **2015 FINA World Aquatics Championships** (`2015_FINA.csv`), originally collected by **OMEGA** (official competition timekeepers).
+Official timing records from the **2015 FINA World Aquatics Championships** (`2015_FINA.csv`) collected by **OMEGA** (official competition timekeepers).
 
 
 ### Key Findings
