@@ -15,13 +15,13 @@ Official timing records from the **2015 FINA World Aquatics Championships** (`20
 ### Key Findings
 
 * **Outliers Inflate Mean Race Benchmarks:**
-  In preliminary heats, a small group of much slower qualifying swimmers skews the overall average. In the Men's 200m Freestyle heats, the average finish time was **111.63 seconds**, while the true middle-of-the-pack time (the median) was **110.04 seconds** showing why median benchmarks are far more accurate when evaluating skewed performance data.
+  In preliminary heats, a small group of much slower qualifying swimmers skews the overall average. In the Men's 200m Freestyle heats, the average finish time was **111.63 seconds**, while the true middle-of-the-pack time (the median) was **110.04 seconds**, confirming that median-based estimators provide a far more reliable benchmark for skewed athletic performance data.
 
 * **Swimmers Do Not "Hold Back" in Semifinals:**
-  Comparing the exact same swimmers across both rounds revealed that they improved by only **0.043%** in the finals, a tiny difference that falls well within normal random variation. This proves swimmers already race at peak effort in the semifinals rather than holding back.
+  Comparing the exact same swimmers across both rounds revealed that they improved by only **0.043%** in the finals, a tiny difference that falls well within normal random variation. A hypothesis test (paired permutation test) confirmed this difference is statistically indistinguishable from chance ($p = 0.25$), showing swimmers already race near peak effort in the semifinals.
 
 * **Steady Mid-Race Fatigue in Distance Events:**
-  By filtering out the fast dive start and the final sprint in the Women's 800m Freestyle, steady-state pacing was isolated to show that athletes slow down at a consistent rate of **0.065 seconds every 50 meters** as fatigue sets in.
+  By filtering out the fast dive start and the final sprint in the Women's 800m Freestyle, steady-state pacing was isolated to show that athletes slow down at a consistent rate of **0.065 seconds every 50 meters** as fatigue sets in.  The observed slowdown was confirmed as statistically significant using the hypothesis test.
 
 
 ### Tools & Methods Used
