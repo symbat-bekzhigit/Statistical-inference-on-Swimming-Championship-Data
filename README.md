@@ -14,13 +14,13 @@ Official timing records from the **2015 FINA World Aquatics Championships** (`20
 
 ### Key Findings
 
-* **Standard Averages Distort Race Benchmarks:**
+* **Outliers Inflate Mean Race Benchmarks:**
   In preliminary heats, a small group of much slower qualifying swimmers skews the overall average. In the Men's 200m Freestyle heats, the average finish time was **111.63 seconds**, while the true middle-of-the-pack time (the median) was **110.04 seconds** showing why median benchmarks are far more accurate when evaluating skewed performance data.
 
-* **Swimmers Give Full Effort in the Semifinals:**
+* **Swimmers Do Not "Hold Back" in Semifinals:**
   Comparing the exact same swimmers across both rounds revealed that they improved by only **0.043%** in the finals, a tiny difference that falls well within normal random variation. This proves swimmers already race at peak effort in the semifinals rather than holding back.
 
-* **Measuring Exact Lap-by-Lap Fatigue:**
+* **Steady Mid-Race Fatigue in Distance Events:**
   By filtering out the fast dive start and the final sprint in the Women's 800m Freestyle, steady-state pacing was isolated to show that athletes slow down at a consistent rate of **0.065 seconds every 50 meters** as fatigue sets in.
 
 
