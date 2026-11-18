@@ -1,4 +1,4 @@
-# Statistical-inference-on-Swimming-Championship-Data
+# Statistical inference on Swimming Championship Data
 
 ## Project Overview
 
